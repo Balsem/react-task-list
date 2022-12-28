@@ -1,4 +1,3 @@
-import AddTask from "../components/addTask";
 import TaskList from "../components/taskList";
 import { IRoute } from "../models/routes";
 
